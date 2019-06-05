@@ -7,4 +7,5 @@ Test if MathJax is rendering properly
 $$\int_2^{\infty}\frac{\pi^7}{x^k} \mbox{d}x = \frac{\pi^7}{(k-1)2^{k-1}} \ \ \ \mbox{if} \ \ \ k>1$$
 
 If above does not look like recognizable math, refresh the page.  If it still does not look right, install "MathJax for GitHub" (Chrome extension) or equivalent.
-**Don't mind me, just testing things out... I'm new to this. (Jurgen)... currently trying to find out how I save the changes I made >.>
+
+Jurgen
